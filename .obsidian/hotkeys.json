@@ -1,0 +1,12 @@
+{
+  "easy-copy:contextual-copy": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": []
+}

@@ -11,9 +11,9 @@ tags:
 
 # Procedimiento
 
-## 1. Revisión de MQ (`wrkmqm`)
+## 1. Revisión de MQ
 
-* **Login > `wrkmqm`** 📸
+* **Login > `# wrkmqm`** 📸
   * **8** — Estado
   * **18** — Colas
   * **20** — Canales
@@ -31,8 +31,17 @@ tags:
 ---
 ## Comandos del Sistema Operativo
 
-* `wrksyssts` — Estado del sistema 📸
-* `RUNQRY QRYFILE((MQBKBDA/QMQSC MQWED2))` — Respaldo de Configuraciones y réplica activa (Solo CONT) 📸
+* Versión MQ 📸: `QMQM/DSPMQMVER`
+* Estado del sistema 📸: `WRKSYSSTS`
+* Respaldo de Configuraciones y réplica activa (CONT) 📸: 
+```
+	RUNQRY QRYFILE((MQBKBDA/QMQSC MQWED2))
+```
+* Listar sincronización de respaldos (CONT) 📸:
+```
+	qsh
+	ls -ltr /QSYS.LIB/MQBKBDA.LIB/QMQSC.FILE
+```
 * ~~`wrkmqmlsr` — Escuchas a nivel de SO~~
 * ~~`wrkdsksts` (o en QSH: `df -g`) — Estado de discos 📸~~
 

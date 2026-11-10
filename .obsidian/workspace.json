@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "357678fc4839d946",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Customers/BDA/Revisión diaria MQ (AS400).md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Revisión diaria MQ (AS400)"
-            }
-          },
-          {
             "id": "f009c5efe7fb9fcb",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "Revisión diaria MQ (AS400)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e5043b2ced03ca3b",
