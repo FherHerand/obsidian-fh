@@ -19,7 +19,7 @@ tags:
   * **20** — Canales
   * **22** — Trabajos 📸
   * **27** — Escuchas
-  * 23** — Logs:
+  * 23** — Logs 📸:
     * Opción **5** para visualizar `AMQERR01.LOG`
     * Presionar tecla **b** para ir al final del archivo
 

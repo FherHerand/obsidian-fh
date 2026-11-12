@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Customers/BDA/Revisión diaria MQ (AS400).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5
   },
   "right": {
     "id": "e5043b2ced03ca3b",
