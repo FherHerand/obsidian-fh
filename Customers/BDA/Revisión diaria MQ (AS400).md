@@ -19,7 +19,7 @@ tags:
   * **20** — Canales
   * **22** — Trabajos 📸
   * **27** — Escuchas
-  * **23** — Logs:
+  * 23** — Logs:
     * Opción **5** para visualizar `AMQERR01.LOG`
     * Presionar tecla **b** para ir al final del archivo
 
@@ -33,15 +33,16 @@ tags:
 
 * Versión MQ 📸: `QMQM/DSPMQMVER`
 * Estado del sistema 📸: `WRKSYSSTS`
-* Respaldo de Configuraciones y réplica activa (CONT) 📸: 
-```
-	RUNQRY QRYFILE((MQBKBDA/QMQSC MQWED2))
-```
-* Listar sincronización de respaldos (CONT) 📸:
-```
-	qsh
-	ls -ltr /QSYS.LIB/MQBKBDA.LIB/QMQSC.FILE
-```
+* *[CONT only]*
+	* Respaldo de Configuraciones y réplica activa📸: 
+	```
+		RUNQRY QRYFILE((MQBKBDA/QMQSC MQWED2))
+	```
+	* Listar sincronización de respaldos📸:
+	```
+		qsh
+		ls -ltr /QSYS.LIB/MQBKBDA.LIB/QMQSC.FILE
+	```
 * ~~`wrkmqmlsr` — Escuchas a nivel de SO~~
 * ~~`wrkdsksts` (o en QSH: `df -g`) — Estado de discos 📸~~
 
