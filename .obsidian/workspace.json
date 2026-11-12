@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 395.5
   },
   "right": {
     "id": "e5043b2ced03ca3b",
@@ -183,8 +183,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f009c5efe7fb9fcb",
+  "active": "030960b7274fc9f1",
   "lastOpenFiles": [
+    "Customers/BDA/Reporte_BDA_Diario_MQ_12_11_2026 1.docx",
+    "Customers/BDA/Reporte_BDA_Diario_MQ_12_11_2026.docx",
     "IBM Products/Sterling/Connect Direct/Sterling Connect Direct - Comandos.md",
     "Customers/ASSA/Ambiente Sterling.md",
     "Red Hat Products/OpenShift/Comandos.md",
@@ -205,7 +207,6 @@
     "Customers/ASSA/Unconfirmed 266777.crdownload",
     "Customers/ASSA",
     "Customers/New folder",
-    "IBM Products/Sterling/B2B",
     "Customers/BDA/Revisión Diaria MQ.md",
     "OpenShift/IPI/nota.md",
     "OpenShift/IPI/Untitled.canvas",

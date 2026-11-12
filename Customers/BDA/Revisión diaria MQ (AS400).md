@@ -33,6 +33,12 @@ tags:
 
 * Versión MQ 📸: `QMQM/DSPMQMVER`
 * Estado del sistema 📸: `WRKSYSSTS`
+* *[Aplica si hay un mensaje por "receptores diarios que pueden eliminarse"]*
+	* Analizar Biblioteca del QM
+```
+	DSPLIB QMBDA.TELL
+	WRKJRNA JRN(QMBDA.TELL/AMQAJRN) + Shift Fn* F3
+```
 * *[CONT only]*
 	* Respaldo de Configuraciones y réplica activa📸: 
 	```
