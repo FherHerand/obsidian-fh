@@ -10,7 +10,7 @@ tags:
 ---
 
 # Procedimiento
-📸: Siempre tomar nuevo screenshot diario, para los otros 
+📸: Siempre tomar nuevo screenshot con fecha/hora visible, para los otros 
 
 ## 1. Revisión de MQ
 
@@ -41,21 +41,21 @@ tags:
 * Versión MQ 📸: `QMQM/DSPMQMVER`
 * Estado del sistema 📸: `WRKSYSSTS`
 * *[Aplica si hay un mensaje por "receptores diarios que pueden eliminarse"]*
-	* Analizar Biblioteca del QM
-```
-	DSPLIB QMBDA.TELL
-	WRKJRNA JRN(QMBDA.TELL/AMQAJRN) + Shift Fn* F3
-```
+	* Analizar Biblioteca del QM 📸:
+		```
+		DSPLIB QMBDA.TELL
+		WRKJRNA JRN(QMBDA.TELL/AMQAJRN) + Shift Fn* F3
+		```
 * *[CONT only]*
 	* Respaldo de Configuraciones y réplica activa📸: 
-	```
+		```
 		RUNQRY QRYFILE((MQBKBDA/QMQSC MQWED2))
-	```
-	* Listar sincronización de respaldos📸:
-	```
+		```
+	* Listar sincronización de respaldos 📸:
+		```
 		qsh
 		ls -ltr /QSYS.LIB/MQBKBDA.LIB/QMQSC.FILE
-	```
+		```
 * ~~Escuchas a nivel de SO: `wrkmqmlsr`~~
 * ~~Estado de discos 📸: `wrkdsksts` (o en QSH: `df -g`)~~
 
