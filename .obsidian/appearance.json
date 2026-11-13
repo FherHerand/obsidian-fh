@@ -1,4 +1,5 @@
 {
   "cssTheme": "Vanilla AMOLED Color",
-  "accentColor": "#4965ee"
+  "accentColor": "#4965ee",
+  "showRibbon": true
 }

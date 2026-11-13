@@ -10,18 +10,25 @@ tags:
 ---
 
 # Procedimiento
+📸: Siempre tomar nuevo screenshot diario, para los otros 
 
 ## 1. Revisión de MQ
 
-* **Login > `# wrkmqm`** 📸
-  * **8** — Estado
-  * **18** — Colas
-  * **20** — Canales
-  * **22** — Trabajos 📸
-  * **27** — Escuchas
-  * 23** — Logs 📸:
-    * Opción **5** para visualizar `AMQERR01.LOG`
-    * Presionar tecla **b** para ir al final del archivo
+* **Login > `wrkmqm`** 📸
+* **Opciones:**
+
+	|Opción| Función  |
+	| --- | --- |
+	| 8   | Estado   |
+	| 18  | Colas    |
+	| 20  | Canales  |
+	| 22  | Trabajos 📸 |
+	| 27  | Listeners |
+	| 23  | Logs 📸 |
+	
+> **Ver Logs**
+> *Opción **5** para visualizar `AMQERR01.LOG`*
+> *Presionar tecla **b** para ir al final del archivo*
 
 > [!tip] Atajos de Navegación
 > * **Mostrar más teclas:** `Shift + Fn + F12` y `Shift + Fn + F11`
@@ -49,8 +56,8 @@ tags:
 		qsh
 		ls -ltr /QSYS.LIB/MQBKBDA.LIB/QMQSC.FILE
 	```
-* ~~`wrkmqmlsr` — Escuchas a nivel de SO~~
-* ~~`wrkdsksts` (o en QSH: `df -g`) — Estado de discos 📸~~
+* ~~Escuchas a nivel de SO: `wrkmqmlsr`~~
+* ~~Estado de discos 📸: `wrkdsksts` (o en QSH: `df -g`)~~
 
 ---
 ## 3. Instana — Dashboards de consumo de Recursos

@@ -14,14 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "Customers/BDA/Revisión diaria MQ (AS400).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Revisión diaria MQ (AS400)"
             }
+          },
+          {
+            "id": "76f5d64c0da303dc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "030960b7274fc9f1",
+  "active": "76f5d64c0da303dc",
   "lastOpenFiles": [
     "Customers/BDA/Reporte_BDA_Diario_MQ_12_11_2026 1.docx",
     "Customers/BDA/Reporte_BDA_Diario_MQ_12_11_2026.docx",
