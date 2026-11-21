@@ -32,6 +32,7 @@ Ficha de referencia técnica con las rutas, nodos y parámetros específicos asi
 - **Binarios de Connect:Direct:** `/u02/cdunix/ndm/bin/`
 - **Configuración CLI API (`ndmapi.cfg`):** `/u02/cdunix/ndm/cfg/cliapi/ndmapi.cfg`
 - **Directorio base File Agent (`CDFA`):** `/u02/cdunix/file_agent/`
+- cargar process file (script) /u01/procscd/procgen.cdp
 
 ### Archivos Netmap
 - **Nodo 1:** `/u02/cdunix/ndm/cfg/PAIDCPORAFS01/netmap.cfg`

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Customers/BDA/Revisión diaria MQ (AS400).md",
-                "mode": "preview",
+                "file": "Customers/ASSA/Ambiente Sterling.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Revisión diaria MQ (AS400)"
+              "title": "Ambiente Sterling"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 200
   },
   "right": {
     "id": "e5043b2ced03ca3b",
@@ -185,13 +185,13 @@
   },
   "active": "85a6b210940c86ce",
   "lastOpenFiles": [
+    "IBM Products/Sterling/Connect Direct/Sterling Connect Direct - Comandos.md",
+    "Customers/BDA/Revisión diaria MQ (AS400).md",
     "Untitled.base",
     "Untitled.canvas",
     "2026-11-13.md",
-    "Customers/BDA/Revisión diaria MQ (AS400).md",
     "Customers/BDA/Reporte_BDA_Diario_MQ_12_11_2026 1.docx",
     "Customers/BDA/Reporte_BDA_Diario_MQ_12_11_2026.docx",
-    "IBM Products/Sterling/Connect Direct/Sterling Connect Direct - Comandos.md",
     "Customers/ASSA/Ambiente Sterling.md",
     "Red Hat Products/OpenShift/Comandos.md",
     "Cloud Pak y ACE - Diagnóstico y Mantenimiento.md",
@@ -208,7 +208,6 @@
     "IBM Products",
     "Sin título.canvas",
     "Customers/ASSA/Unconfirmed 266777.crdownload",
-    "Customers/ASSA",
     "Customers/BDA/Revisión Diaria MQ.md",
     "OpenShift/IPI/nota.md",
     "OpenShift/IPI/Untitled.canvas",
