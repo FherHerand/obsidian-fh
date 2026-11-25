@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Customers/ASSA/Ambiente Sterling.md",
-                "mode": "source",
+                "file": "IBM Products/Sterling/Connect Direct/Sterling Connect Direct - Comandos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ambiente Sterling"
+              "title": "Sterling Connect Direct - Comandos"
+            }
+          },
+          {
+            "id": "3f6f0f57d64eb672",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,16 +194,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "85a6b210940c86ce",
+  "active": "3f6f0f57d64eb672",
   "lastOpenFiles": [
     "IBM Products/Sterling/Connect Direct/Sterling Connect Direct - Comandos.md",
     "Customers/BDA/Revisión diaria MQ (AS400).md",
+    "Customers/ASSA/Ambiente Sterling.md",
     "Untitled.base",
     "Untitled.canvas",
     "2026-11-13.md",
     "Customers/BDA/Reporte_BDA_Diario_MQ_12_11_2026 1.docx",
     "Customers/BDA/Reporte_BDA_Diario_MQ_12_11_2026.docx",
-    "Customers/ASSA/Ambiente Sterling.md",
     "Red Hat Products/OpenShift/Comandos.md",
     "Cloud Pak y ACE - Diagnóstico y Mantenimiento.md",
     "Rook-Ceph - Operación y Solución de Problemas.md",
