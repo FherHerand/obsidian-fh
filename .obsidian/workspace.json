@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6f50af4ec0c22038",
+        "id": "5054ccfdc0849f9d",
         "type": "tabs",
         "children": [
           {
-            "id": "85a6b210940c86ce",
+            "id": "9ed8058e6b2fe4d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "IBM Products/Sterling/Connect Direct/Sterling Connect Direct - Comandos.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-11-25 09.49.07.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Sterling Connect Direct - Comandos"
-            }
-          },
-          {
-            "id": "3f6f0f57d64eb672",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-11-25 09.49.07.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,13 +181,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3f6f0f57d64eb672",
+  "active": "9ed8058e6b2fe4d8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-11-25 09.49.07.excalidraw.md",
+    "Untitled.canvas",
     "IBM Products/Sterling/Connect Direct/Sterling Connect Direct - Comandos.md",
     "Customers/BDA/Revisión diaria MQ (AS400).md",
     "Customers/ASSA/Ambiente Sterling.md",
     "Untitled.base",
-    "Untitled.canvas",
     "2026-11-13.md",
     "Customers/BDA/Reporte_BDA_Diario_MQ_12_11_2026 1.docx",
     "Customers/BDA/Reporte_BDA_Diario_MQ_12_11_2026.docx",
